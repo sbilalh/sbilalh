@@ -4,7 +4,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 
 ## Life
 
-<img align="right" alt="Bilal Hussain's photo." width="350" src="img/YourPhoto.jpg" />
+<img align="right" alt="Bilal Hussain's photo." width="350" src="gify.gif" />
 
 - B.S. Computer Science @ [**University of Rochester**][ur] (Graduated Dec'23)  
 - Software Engineering Intern @ [**Parative**][parative]  (May'23 - Aug'23)  
