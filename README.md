@@ -31,7 +31,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge)
 
-### Software
+## Software
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -40,5 +40,6 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 
+## Contact
 Need a full-stack or backend engineer? You can email me at bilal.kaa.email@gmail.com. [Let's connect on LinkedIn] and explore possibilities!
 [linkedin]: https://www.linkedin.com/in/s-bilal-h/
