@@ -41,5 +41,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 
 ## Contact
-Need a full-stack or backend engineer? You can email me at bilal.kaa.email@gmail.com. [Let's connect on LinkedIn] and explore possibilities!
+Need a full-stack or backend engineer? You can email me at [bilal.kaa.email@gmail.com][email]. [Let's connect on LinkedIn][linkedin] and explore possibilities!
+
+[email]: mailto:bilal.kaa.email@gmail.com
 [linkedin]: https://www.linkedin.com/in/s-bilal-h/
