@@ -2,15 +2,19 @@
 
 I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. Let's connect and make something great together!
 
-## Life
+## Experience
 
-<img align="right" alt="cat struggling to code" width="200" height="200" src="giphy.gif" />
+<img align="right" alt="cat struggling to code" width="200" height="250" src="giphy.gif" />
 
-- B.S. Computer Science @ [**University of Rochester**][ur] (Graduated Dec'23)  
-- Software Engineering Intern @ [**Parative**][parative]  (May'23 - Aug'23)  
-- Founding Software Engineer @ [**1-Decision**][1decision]  (Aug'22 - Feb'23)  
-- Software Engineer @ [**University of Rochester**][ur]  (Aug'21 - Dec '22)  
-- Teaching Assistant @ [**University of Rochester | Computer Science Department**][urcs]  (Aug'20 - Dec'22)  
+### Current  
+- Looking for full-time software engineering roles!
+  
+### Past  
+- B.S. Computer Science @ [**University of Rochester**][ur]
+- Software Engineering Intern @ [**Parative**][parative] 
+- Founding Software Engineer @ [**1-Decision**][1decision]
+- Software Engineer @ [**University of Rochester**][ur]
+- Teaching Assistant @ [**University of Rochester | Computer Science Department**][urcs]
 
 [ur]: https://rochester.edu
 [parative]: https://parative.com
