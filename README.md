@@ -4,7 +4,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 
 ## Life
 
-<img align="right" alt="Bilal Hussain's photo." width="350" src="gify.gif" />
+<img align="right" alt="Bilal Hussain's photo." width="350" src="giphy.gif" />
 
 - B.S. Computer Science @ [**University of Rochester**][ur] (Graduated Dec'23)  
 - Software Engineering Intern @ [**Parative**][parative]  (May'23 - Aug'23)  
@@ -24,6 +24,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -43,21 +44,7 @@ _Interesting facts: Outside of coding I am into lifting, chess, philosophy, film
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 
 <p align="center">
-    <b>Seeking opportunities in software engineering and AI development.
-        <a href="https://www.linkedin.com/in/s-bilal-h/">Let's connect and explore possibilities!</a>
+    <b>Seeking opportunities in software engineering and AI development. You can email me at bilal.kaa.email@gmail.com.
+        <a href="https://www.linkedin.com/in/s-bilal-h/">Let's connect on LinkedIn and explore possibilities!</a>
     </b>
 </p>
-
----
-
-<a href="mailto:bilal.kaa.email@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/s-bilal-h/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://github.com/sbilalh">
-    <img height="32" align="left" alt="GitHub" src="img/icons/github.png" />
-</a>
