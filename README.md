@@ -1,25 +1,21 @@
-# Hi, I'm Syed Bilal Hussain 👋
+# Hi, I'm Bilal Hussain 👋
 
-As a dedicated Computer Science student at the University of Rochester, I'm deeply engaged in exploring the realms of Artificial Intelligence, Database Systems, and Mobile App Development. My passion lies in harnessing technology to create innovative and impactful solutions.
-
-I'm particularly fascinated by the intersection of AI and software engineering, always striving to write efficient and clean code.
+I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. Outside of coding I am into lifting, chess, philosophy, film, music, gaming, reading, travelling, cooking and a million other things. Let's connect and make something great together!
 
 ## Life
 
 <img align="right" alt="Syed Bilal Hussain's photo." width="350" src="img/YourPhoto.jpg" />
 
-:shipit: B.S. Computer Science @ [**University of Rochester**][ur] (GPA: 3.6/4.0, Dean's Honor List)  
+:shipit: B.S. Computer Science @ [**University of Rochester**][ur] 
 :shipit: Software Engineering Intern @ [**Parative**][parative]  
 :shipit: Founding Software Engineer @ [**1-Decision**][1decision]  
-:shipit: Software Engineer @ [**University of Rochester | Office of the Dean of Students**][urdean]  
+:shipit: Software Engineer @ [**University of Rochester][ur]  
 :shipit: Teaching Assistant - Data Structures & Algorithms, OOP @ [**University of Rochester | Computer Science Department**][urcs]  
-:shipit: Passionate about AI-powered solutions and clean code.  
-:shipit: Open-source contributor (GitHub profile with numerous contributions).
 
 [ur]: https://rochester.edu
 [parative]: https://parative.com
 [1decision]: https://1-decision.com
-[urdean]: https://rochester.edu/dean
+[ur]: https://rochester.edu
 [urcs]: https://cs.rochester.edu
 
 ## Skills
