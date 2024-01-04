@@ -1,10 +1,10 @@
 # Hi, I'm Bilal Hussain 👋
 
-I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. Outside of coding I am into lifting, chess, philosophy, film, music, gaming, reading, travelling, cooking and a million other things. Let's connect and make something great together!
+I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. Let's connect and make something great together!
 
 ## Life
 
-<img align="right" alt="Syed Bilal Hussain's photo." width="350" src="img/YourPhoto.jpg" />
+<img align="right" alt="Bilal Hussain's photo." width="350" src="img/YourPhoto.jpg" />
 
 :shipit: B.S. Computer Science @ [**University of Rochester**][ur] 
 :shipit: Software Engineering Intern @ [**Parative**][parative]  
@@ -30,8 +30,8 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Java._  
-_Interesting facts: Apart from coding, I enjoy :camera: photography, :world_map: traveling, and :basketball: basketball._
+_Favorite programming language: JavaScript/TypeScript._  
+_Interesting facts: Outside of coding I am into lifting, chess, philosophy, film, music, gaming, reading, travelling, cooking and a million other things.._
 
 ### Software
 
@@ -61,19 +61,3 @@ _Interesting facts: Apart from coding, I enjoy :camera: photography, :world_map:
 <a href="https://github.com/sbilalh">
     <img height="32" align="left" alt="GitHub" src="img/icons/github.png" />
 </a>
-
-
-<!--
-**sbilalh/sbilalh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
