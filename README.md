@@ -6,11 +6,11 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 
 <img align="right" alt="Bilal Hussain's photo." width="350" src="img/YourPhoto.jpg" />
 
-- B.S. Computer Science @ [**University of Rochester**][ur] (Graduated Dec'23)
-:shipit: Software Engineering Intern @ [**Parative**][parative]  (May'23 - Aug'23)
-:shipit: Founding Software Engineer @ [**1-Decision**][1decision]  (Aug'22 - Feb'23)
-:shipit: Software Engineer @ [**University of Rochester][ur]  (Aug'21 - Dec '22)
-:shipit: Teaching Assistant - Data Structures & Algorithms, OOP @ [**University of Rochester | Computer Science Department**][urcs]  (Aug'20 - Dec'22)
+- B.S. Computer Science @ [**University of Rochester**][ur] (Graduated Dec'23)  
+- Software Engineering Intern @ [**Parative**][parative]  (May'23 - Aug'23)  
+- Founding Software Engineer @ [**1-Decision**][1decision]  (Aug'22 - Feb'23)  
+- Software Engineer @ [**University of Rochester][ur]  (Aug'21 - Dec '22)  
+- Teaching Assistant - Data Structures & Algorithms, OOP @ [**University of Rochester | Computer Science Department**][urcs]  (Aug'20 - Dec'22)  
 
 [ur]: https://rochester.edu
 [parative]: https://parative.com
