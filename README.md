@@ -1,6 +1,6 @@
 # Hi, I'm Bilal Hussain 👋
 
-I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. Let's connect and make something great together!
+I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. Currently I am open to full-time software engineering roles. I have experience working in backend as well as fullstack development. Let's connect and make something great together!
 
 ## Experience
 
