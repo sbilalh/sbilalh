@@ -46,7 +46,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 
 ## Contact
-You can email me at [bilal.kaa.email@gmail.com][email]. [Let's connect on LinkedIn][linkedin]!
+You can email me at [bilal.kaa.email@gmail.com][email]. Let's connect on [LinkedIn][linkedin]!
 
 [email]: mailto:bilal.kaa.email@gmail.com
 [linkedin]: https://www.linkedin.com/in/s-bilal-h/
