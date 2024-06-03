@@ -13,7 +13,6 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 - B.S. Computer Science @ [**University of Rochester**][ur]
 - Software Engineering Intern @ [**Parative**][parative] 
 - Founding Software Engineer @ [**1-Decision**][1decision]
-- Software Engineer @ [**University of Rochester**][ur]
 - Teaching Assistant @ [**University of Rochester | Computer Science Department**][urcs]
 
 [ur]: https://rochester.edu
