@@ -1,6 +1,6 @@
 # Hi, I'm Bilal Hussain 👋
 
-I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. Currently I am open to full-time software engineering roles. I have experience working in backend as well as fullstack development. Let's connect and make something great together!
+I love solving complex problems and I have a knack for creating intuitive solutions. I'm always on the lookout for exciting opportunities to collaborate and bring innovative ideas to life. I have experience working in backend as well as fullstack development. Let's connect and make something great together!
 
 ## Experience
 
@@ -46,7 +46,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 
 ## Contact
-Need a full-stack or backend engineer? You can email me at [bilal.kaa.email@gmail.com][email]. [Let's connect on LinkedIn][linkedin] and explore possibilities!
+You can email me at [bilal.kaa.email@gmail.com][email]. [Let's connect on LinkedIn][linkedin]!
 
 [email]: mailto:bilal.kaa.email@gmail.com
 [linkedin]: https://www.linkedin.com/in/s-bilal-h/
