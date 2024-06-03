@@ -7,7 +7,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 <img align="right" alt="cat struggling to code" width="200" height="250" src="giphy.gif" />
 
 ### Current  
-- Looking for full-time software engineering roles!
+- Integration Engineer @ [**Method Financial**][method]
   
 ### Past  
 - B.S. Computer Science @ [**University of Rochester**][ur]
@@ -21,6 +21,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 [1decision]: https://1-decision.com
 [ur]: https://rochester.edu
 [urcs]: https://cs.rochester.edu
+[method]: https://methodfi.com/
 
 ## Skills
 
