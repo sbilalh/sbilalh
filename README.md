@@ -7,7 +7,7 @@ I love solving complex problems and I have a knack for creating intuitive soluti
 <img align="right" alt="cat struggling to code" width="200" height="250" src="giphy.gif" />
 
 ### Current  
-- Integration Engineer @ [**Method Financial**][method]
+- Software Engineer @ [**Method Financial**][method]
   
 ### Past  
 - B.S. Computer Science @ [**University of Rochester**][ur]
